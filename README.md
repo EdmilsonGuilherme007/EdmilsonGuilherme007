@@ -7,7 +7,7 @@
 - 📫 How to reach me:  Visite -me no Linkedin       
 - 😄 Pronouns:  GAMBBOY         
     
-### Best Tecnologies
+### SOME TECHNOLOGIES
 
 <div> 
      <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
