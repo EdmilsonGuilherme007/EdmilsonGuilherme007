@@ -10,6 +10,6 @@
 ### Best Tecnologies
 
 <div>
-       <i class="devicon-adonisjs-original "></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
 </div>     
   
