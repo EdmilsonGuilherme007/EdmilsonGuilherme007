@@ -9,9 +9,6 @@
     
 ### Best Tecnologies
 
-<div>
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
-  </div>
   
